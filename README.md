@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering student at Malaga University 
+Software Engineering student at the University of Málaga 
 
 
 ## 🌐 Socials:
